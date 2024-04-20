@@ -1,0 +1,71 @@
+img{
+    margin-left: 200px ;
+    transform: scale(0.1);
+    
+
+}
+.eee{
+    width: 2;
+    margin-left: 36%;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    margin: 30px 0 0  20%;
+    border: 2px solid black;
+    border-radius: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: blueviolet;
+}
+.div{
+    text-align: center;
+    margin-left: 90px;
+}
+h2{
+    text-align: center;
+    margin-left: 30px;
+}
+body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.e2{
+    text-align: center;
+    margin-left: 90px;
+    
+}
+.login{
+    margin-left: 30px;
+
+}
+input{
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-left: -55px;
+}
+a{
+    text-align: center;
+    display: block;
+    padding-left: 7%;
+}
+.border{
+    background-color: azure;
+}
+body{
+    background-color: aqua;
+    margin-right: 500px;
+    margin-left: 500px;
+    
+    
+    
+}
+h3{
+    margin-right: 60px;
+}
+h4{
+    margin-right: 60px;
+}
+div{
+    border: none;
+    border-radius: 30px;
+}
